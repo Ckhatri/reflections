@@ -11,3 +11,10 @@ everything has to be updated.
 
 How can you use the staging area to make sure you have one commit per logical change?
 To make sure the difference between your staged area and the your current repo have one logical change in them.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+When you're making a slight change that could have a big impact, that you might tweak later.
+Because then you're able to go back to the original, so if you want an easy or normal mode
+you can pick which one to work on and do that.
