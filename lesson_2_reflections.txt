@@ -8,3 +8,6 @@ think it offers?
 It contains the files that you want to commit, which might be different than all the files in the
 working directory. The value is that you get total control over what you want to commit, so not
 everything has to be updated.
+
+How can you use the staging area to make sure you have one commit per logical change?
+To make sure the difference between your staged area and the your current repo have one logical change in them.
