@@ -18,3 +18,7 @@ How would branches help?
 When you're making a slight change that could have a big impact, that you might tweak later.
 Because then you're able to go back to the original, so if you want an easy or normal mode
 you can pick which one to work on and do that.
+
+How do the diagrams help you visualize the branch structure?
+
+They help you see which commits are reachable and whatnot
