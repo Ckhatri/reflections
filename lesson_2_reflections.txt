@@ -22,3 +22,10 @@ you can pick which one to work on and do that.
 How do the diagrams help you visualize the branch structure?
 
 They help you see which commits are reachable and whatnot
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way
+we do?
+
+The result is that the two codes are added together, based on what should be added.
+We represent it in the diagram because the two things that get merged, now are one thing, in this case
+the master.
