@@ -8,3 +8,15 @@ date with your remote repository?
 You might be working on a file with certain code, and your new code is based around that code. If 
 you automatically get it from github that might change, the old code which might not be compatible
 with the code you just wrote.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of 
+another?
+
+A branch allows you to move away from the current path, and create a new one which has a specific 
+change that makes it distinct enough to be different, kind of like creating a slightly different story.
+
+A clone copies over the file and allows you to work on edit the files, or add to the repository. Changes
+to a clone will change the original repo's wherever you cloned it from.
+
+A fork gives you a copy that links back to the original owners, but the changes to this fork will 
+not show up in the owners. 
