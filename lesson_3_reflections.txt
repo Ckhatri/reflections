@@ -20,3 +20,9 @@ to a clone will change the original repo's wherever you cloned it from.
 
 A fork gives you a copy that links back to the original owners, but the changes to this fork will 
 not show up in the owners. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You're able to see any changes that could have been made even if you're offline. It allows you
+to easily the see the difference between your code and what might now be on the github page. 
+Allowing you to easily fix conflicts.
