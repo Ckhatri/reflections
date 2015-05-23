@@ -26,3 +26,9 @@ What is the benefit of having a copy of the last known state of the remote store
 You're able to see any changes that could have been made even if you're offline. It allows you
 to easily the see the difference between your code and what might now be on the github page. 
 Allowing you to easily fix conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You would have to constantly send the other person updated files to make sure they were on the same
+page as you. It'd be harder to find changes because you couldn't use the diff tool.
+It might be easier because you won't have to deal with conflicts and whatnot, and you can fix them
+when you see the other persons code.
