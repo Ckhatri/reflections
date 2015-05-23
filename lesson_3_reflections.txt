@@ -29,6 +29,7 @@ Allowing you to easily fix conflicts.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You would have to constantly send the other person updated files to make sure they were on the same
-page as you. It'd be harder to find changes because you couldn't use the diff tool.
+page as you. It'd be harder to find changes because you couldn't use the diff tool. 
+You could use something like dropbox.
 It might be easier because you won't have to deal with conflicts and whatnot, and you can fix them
 when you see the other persons code.
